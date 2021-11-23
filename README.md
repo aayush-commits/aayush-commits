@@ -4,7 +4,7 @@
 - 👀 I’m interested in Automation/Scraping/Webdev
 - 🌱 I’m currently learning Python
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aayush572/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aayush-commits/&title=Profile%20Views)
 
 
 ### Skills 👨‍💻
@@ -20,7 +20,7 @@
 
 ### Stats ⚡️
 
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=aayush572&tc=333&ic=333)
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=aayush-commits&tc=333&ic=333)
 
 <!---
 aayush572/aayush572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
