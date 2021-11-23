@@ -1,8 +1,10 @@
 ## Namaste 🙏🏻
 ###
 - 👋 Hi, I’m **Aayush..**
-- 👀 I’m interested in Automation/Scraping/Webdev
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in - Automation/Scraping/Webdev
+- 🌱 I’m currently learning - Python
+- 🥅 2021 Goal - Code everyday
+- ⚡ Fun fact - no one has actually measured the speed of light
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aayush-commits/&title=Profile%20Views)
 
