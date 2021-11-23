@@ -1,6 +1,6 @@
 ## Namaste 🙏🏻
 ###
-- 👋 Hi, I’m **Aayush Amoli**
+- 👋 Hi, I’m **Aayush..**
 - 👀 I’m interested in Automation/Scraping/Webdev
 - 🌱 I’m currently learning Python
 
