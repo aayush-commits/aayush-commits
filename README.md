@@ -1,12 +1,12 @@
 ## Namaste 🙏🏻
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://www.linux.org/)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aayush-commits/&title=Profile%20Views)
 ###
 - 👋 Hi, I’m **Aayush..**
 - 👀 I’m interested in - Automation/Scraping/Webdev
 - 🌱 I’m currently learning - Python
 - 🥅 2021 Goal - Code everyday
 - ⚡ Fun fact - no one has measured the speed of light
-
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aayush-commits/&title=Profile%20Views)
 
 
 ### Skills 👨‍💻
