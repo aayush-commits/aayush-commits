@@ -22,12 +22,7 @@
 
 ### Stats ⚡️
 
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username=aayush-commits&tc=333&ic=333)
-
-<!---
-aayush572/aayush572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=aayush131&tc=333&ic=333)
 
 ## Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aayush-amoli-972134207/)
