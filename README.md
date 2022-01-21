@@ -1,12 +1,20 @@
-## Namaste 🙏🏻
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+
+</div>
+
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://www.linux.org/)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aayush-commits/&title=Profile%20Views)
 ###
 - 👋 Hi, I’m **Aayush..**
 - 👀 I’m interested in - Automation/Scraping/Webdev
 - 🌱 I’m currently learning - Python
-- 🥅 2021 Goal - Code everyday
-- ⚡ Fun fact - no one has measured the speed of light
+- 🥅 2022 Goal - Code everyday
+- ⚡ Fun fact - no one has measured the (one way) speed of light
 
 
 ### Skills 👨‍💻
