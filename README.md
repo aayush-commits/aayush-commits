@@ -33,5 +33,6 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=aayush2718&tc=333&ic=333)
 
 ## Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aayush-amoli-972134207/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/aayush2718
+)
 <br />
