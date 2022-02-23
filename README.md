@@ -14,7 +14,6 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 - 👀 I’m interested in - Automation/Scraping/Webdev
 - 🌱 I’m currently learning - Python
 - 🥅 2022 Goal - Code everyday
-- ⚡ Fun fact - no one has measured the (one way) speed of light
 
 
 ### Skills 👨‍💻
