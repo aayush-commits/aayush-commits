@@ -10,7 +10,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://www.linux.org/)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aayush-commits/&title=Profile%20Views)
 ###
-- 👋 Hi, I’m **Aayush..**
+- 👋 Hi, I’m **Aayush**
 - 👀 I’m interested in - Automation/Scraping/Webdev
 - 🌱 I’m currently learning - Python
 - 🥅 2022 Goal - Code everyday
